@@ -1,0 +1,6 @@
+let a =8;
+let b =6
+
+if(a>b){
+    console.log('a is grather then b');
+}
